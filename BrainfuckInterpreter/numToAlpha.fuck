@@ -1,0 +1,21 @@
+Accept two digits
+,>,
+
+Turn the character codes into numbers
+>++++++[<--------<-------->>-]
+
+Turn the tens digit into actual number in cell 2
+<<[>++++++++++<-]
+remove the tens digit from data
+[-]
+
+add capital A or 65 onto the number
+>>+++++[<+++++++++++++>-]
+
+Print it out baby
+<.
+
+
+
+Comments can be written in plaintext
+Just don't use any of the brainfuck commands
